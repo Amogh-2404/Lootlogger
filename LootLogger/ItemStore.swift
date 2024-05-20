@@ -9,7 +9,7 @@
 import UIKit
 
 class ItemStore{
-    private set var allItems = [Item]()
+    var allItems = [Item]()
     
     
     
